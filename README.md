@@ -72,6 +72,16 @@ The analysis integrates **sequence-based**, **structure-based**, and **phylogene
 
 ---
 
+scripts/
+│ ├── cd_hit_cluster.sh
+│ ├── alistat_summary.py
+│ ├── tm_align_batch.sh
+│ ├── phylogeny_tree_builder.sh
+│ ├── itol_label_generator.py
+│ ├── color_annotation_generator.py
+│ ├── cluster_extraction.py
+│ └── jalview_visualization_script.py
+
 ---
 
 ## 🧠 Key Findings
