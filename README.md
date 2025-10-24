@@ -72,5 +72,29 @@ The analysis integrates **sequence-based**, **structure-based**, and **phylogene
 
 ---
 
+---
+
+## 🧠 Key Findings
+- Profilin-1 interacts with Beta-actin through conserved residues crucial for cytoskeletal organization.  
+- Transthyretin binds Retinol Binding Protein 4 for vitamin A transport, highlighting ligand-binding conservation.  
+- Multiple sequence and structure alignments reveal fold-level conservation across species.  
+- Disease-linked mutations (e.g., in TTR) align with conserved structural regions, indicating functional relevance.
+
+---
+
+## 🧾 Citation
+If you use this repository or any part of this analysis, please cite:
+
+> Deepashree M. (2025). *Structural and Evolutionary Profiling of Select Human Protein–Protein Interactions Across Diverse Folds.*  
+> MSc Dissertation, JSS Academy of Higher Education & Research, Mysuru.
+
+---
+
+## 👩‍💻 Author
+**Deepashree M**  
+MSc Bioinformatics | JSS Academy of Higher Education & Research  
+📧 [deepashreemanjunath07@gmail.com]  
+
+
 
 
